@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+bory {
+    background-color: darkgoldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+}
+
+h1 {
+    color: brown;
+    background-color: gold;
+}
+
+h2 {
+    color: rgb(37, 2, 2);
+}
+
+p {
+    text-align: justify;
+}
+
